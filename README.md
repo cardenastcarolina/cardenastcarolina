@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
 <h1 align="center">
 Hello World
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -78,5 +77,3 @@ I am always on the lookout for new challenges to work on. Check out my repositor
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)&nbsp;<!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=Power%20BI&logoColor=white)
-    
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
