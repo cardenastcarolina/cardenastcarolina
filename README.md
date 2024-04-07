@@ -24,6 +24,7 @@ I am always on the lookout for new challenges to work on. Check out my repositor
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Spanish_| Native Speaker-100000?style=flat&logo=&logoColor=dfb317&labelColor=007ec6&color=007ec6'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Italian_| Native Speaker-100000?style=flat&logo=&logoColor=dfb317&labelColor=007ec6&color=007ec6'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/English_| Full Proficiency-100000?style=flat&logo=&logoColor=dfb317&labelColor=007ec6&color=007ec6'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='NONE' src='https://img.shields.io/badge/German_| Limited working proficiency-100000?style=flat&logo=NONE&logoColor=white&labelColor=007ec6&color=007ec6'/></a>
 </td><td valign="top" width="34%">
    
 ### 👩‍💻 My Skills
