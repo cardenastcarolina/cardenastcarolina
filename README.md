@@ -13,11 +13,14 @@ Motivated by a strong passion for Technology and an interest in discovering patt
 
 ### ✍️ Articles
 
-I regularly write articles on Technology with a Legal focus on https://www.legalmentech.com/articulos
+I regularly write articles on Technology with a Legal focus on [Legalmentech](https://www.legalmentech.com/articulos).
     
 ### 💼 Let's get in touch!
 
 I am always on the lookout for new challenges to work on. Check out my repositories and feel free to reach out if you think that I would be a good fit in your company.
+
+<a href='https://www.linkedin.com/in/cardenastcarolina/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Carolina_Cardenas Torres-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=007ec6&color=007ec6'/></a>
+<a href='mailto:cardenastcarolina@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/cardenastcarolina@gmail.com-100000?style=flat&logo=Gmail&logoColor=white&labelColor=007ec6&color=007ec6'/></a>
 
 ### 💬 Available in
 
