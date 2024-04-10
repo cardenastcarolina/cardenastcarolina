@@ -37,6 +37,10 @@ I am always on the lookout for new challenges to work on. Check out my repositor
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Data Cleaning' src='https://img.shields.io/badge/Data_Cleaning-100000?style=flat&logo=Data Cleaning&logoColor=FFFFFF&labelColor=007ec6&color=007ec6'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Data Visualisation' src='https://img.shields.io/badge/Data_Visualisation-100000?style=flat&logo=Data Visualisation&logoColor=FFFFFF&labelColor=007ec6&color=007ec6'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Dashboards' src='https://img.shields.io/badge/Dashboards-100000?style=flat&logo=Dashboards&logoColor=FFFFFF&labelColor=007ec6&color=007ec6'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/EDA_for Machine Learning-100000?style=flat&logo=&logoColor=white&labelColor=007ec6&color=007ec6'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Feature_Engineering-100000?style=flat&logo=&logoColor=white&labelColor=007ec6&color=007ec6'/></a>
+
+
 
 #### Programming Languages
 
@@ -57,24 +61,22 @@ I am always on the lookout for new challenges to work on. Check out my repositor
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Tableau' src='https://img.shields.io/badge/Tableau-100000?style=flat&logo=Tableau&logoColor=e05d44&labelColor=FFFFFF&color=FFFFFF'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Jupyter' src='https://img.shields.io/badge/Jupyter_Notebooks-100000?style=flat&logo=Jupyter&logoColor=fe7d37&labelColor=FFFFFF&color=FFFFFF'/></a>
 
-#### Operating Systems
+#### Libraries
 
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='WIndows' src='https://img.shields.io/badge/Windows-100000?style=flat&logo=WIndows&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='MacOs' src='https://img.shields.io/badge/MacOs-100000?style=flat&logo=MacOs&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a>
-
-#### Tools
-
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Github' src='https://img.shields.io/badge/GitHub-100000?style=flat&logo=Github&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=flat&logo=Google Colab&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Slack' src='https://img.shields.io/badge/Slack-100000?style=flat&logo=Slack&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Notion' src='https://img.shields.io/badge/Notion-100000?style=flat&logo=Notion&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Microsoft Excel' src='https://img.shields.io/badge/Excel-100000?style=flat&logo=Microsoft Excel&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Pandas' src='https://img.shields.io/badge/Pandas-100000?style=flat&logo=Pandas&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Numpy' src='https://img.shields.io/badge/Numpy-100000?style=flat&logo=Numpy&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Plotly' src='https://img.shields.io/badge/Plotly-100000?style=flat&logo=Plotly&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Matplotlib' src='https://img.shields.io/badge/Matplotlib-100000?style=flat&logo=Matplotlib&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Seaborn' src='https://img.shields.io/badge/Seaborn-100000?style=flat&logo=Seaborn&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Statsmodels' src='https://img.shields.io/badge/Statsmodels-100000?style=flat&logo=Statsmodels&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Scipy' src='https://img.shields.io/badge/Scipy-100000?style=flat&logo=Scipy&logoColor=white&labelColor=9f9f9f&color=9f9f9f'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='sklearn' src='https://img.shields.io/badge/sklearn-100000?style=flat&logo=sklearn&logoColor=white&labelColor=9f9f9f&color=9f9f9f'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='MissingNo' src='https://img.shields.io/badge/MissingNo-100000?style=flat&logo=MissingNo&logoColor=white&labelColor=9f9f9f&color=9f9f9f'/></a>
 
- 
+ #### Tools
 
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Github' src='https://img.shields.io/badge/GitHub-100000?style=flat&logo=Github&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Google Colab' src='https://img.shields.io/badge/Google_Colab-100000?style=flat&logo=Google Colab&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Slack' src='https://img.shields.io/badge/Slack-100000?style=flat&logo=Slack&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Notion' src='https://img.shields.io/badge/Notion-100000?style=flat&logo=Notion&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Microsoft Excel' src='https://img.shields.io/badge/Excel-100000?style=flat&logo=Microsoft Excel&logoColor=FFFFFF&labelColor=9f9f9f&color=9f9f9f'/></a>
