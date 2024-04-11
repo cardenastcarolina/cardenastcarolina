@@ -4,7 +4,7 @@
     <h3>💡 About me</h3>
 <!-- recent_releases starts -->
 
-#### I am [Carolina](https://github.com/cardenastcarolina), a passionate Data Analyst with an education in Law. 
+#### I am [Carolina](https://www.linkedin.com/in/cardenastcarolina/), a passionate Data Analyst with an education in Law. 
 <p>Motivated by a strong passion for Technology and an interest in discovering patterns and extracting insights, I've recently transitioned into the world of Data Analysis.</p>
 <p>My journey integrates the art of storytelling, refined through my years of experience in Audiovisual Journalism, with the precision of Law, resulting in a rigorous method to extracting meaningful stories from complex datasets.</p>
 
