@@ -36,7 +36,6 @@ I am always on the lookout for new challenges to work on. Check out my repositor
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Data Analysis' src='https://img.shields.io/badge/Data_Analysis-100000?style=flat&logo=Data Analysis&logoColor=FFFFFF&labelColor=007ec6&color=007ec6'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Data Cleaning' src='https://img.shields.io/badge/Data_Cleaning-100000?style=flat&logo=Data Cleaning&logoColor=FFFFFF&labelColor=007ec6&color=007ec6'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Data Visualisation' src='https://img.shields.io/badge/Data_Visualisation-100000?style=flat&logo=Data Visualisation&logoColor=FFFFFF&labelColor=007ec6&color=007ec6'/></a>
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Dashboards' src='https://img.shields.io/badge/Dashboards-100000?style=flat&logo=Dashboards&logoColor=FFFFFF&labelColor=007ec6&color=007ec6'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/EDA_for Machine Learning-100000?style=flat&logo=&logoColor=white&labelColor=007ec6&color=007ec6'/></a>
 <a href='https://github.com/shivamkapasia0' target="_blank"><img alt='' src='https://img.shields.io/badge/Feature_Engineering-100000?style=flat&logo=&logoColor=white&labelColor=007ec6&color=007ec6'/></a>
 
