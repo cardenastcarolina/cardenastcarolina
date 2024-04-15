@@ -29,6 +29,7 @@ I am always on the lookout for new challenges to work on. Check out my repositor
    
 ### 👩‍💻 My Skills
 
+<a target="_blank"><img alt='ETL' src='https://img.shields.io/badge/ETL_-100000?style=flat&logo=ETL&logoColor=007ec6&labelColor=007ec6&color=007ec6'/></a>
 <a target="_blank"><img alt='Web Scrapping' src='https://img.shields.io/badge/Web_Scrapping-100000?style=flat&logo=Web Scrapping&logoColor=FFFFFF&labelColor=007ec6&color=007ec6'/></a>
 <a target="_blank"><img alt='Data Analysis' src='https://img.shields.io/badge/Data_Analysis-100000?style=flat&logo=Data Analysis&logoColor=FFFFFF&labelColor=007ec6&color=007ec6'/></a>
 <a target="_blank"><img alt='Data Cleaning' src='https://img.shields.io/badge/Data_Cleaning-100000?style=flat&logo=Data Cleaning&logoColor=FFFFFF&labelColor=007ec6&color=007ec6'/></a>
